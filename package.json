@@ -1,0 +1,25 @@
+{
+  "name": "@bluemagenta/breakout",
+  "version": "0.1.0",
+  "description": "phaser 3 breakout game",
+  "main": "dist/index.html",
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "test": "parcel test/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bluemagenta/breakout.git"
+  },
+  "author": "bluemagenta",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bluemagenta/breakout/issues"
+  },
+  "homepage": "https://github.com/bluemagenta/breakout#readme",
+  "dependencies": {
+    "parcel-bundler": "^1.12.4",
+    "phaser": "^3.23.0"
+  }
+}

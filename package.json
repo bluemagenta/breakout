@@ -21,5 +21,8 @@
   "dependencies": {
     "parcel-bundler": "^1.12.4",
     "phaser": "^3.23.0"
+  },
+  "devDependencies": {
+    "typescript": "^3.9.5"
   }
 }
